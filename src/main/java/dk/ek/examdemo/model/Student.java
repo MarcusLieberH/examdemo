@@ -19,6 +19,6 @@ public class Student {
     private long id;
     private String name;
     private String email;
-    private int age;
+    private String age;
     private String subject;
 }
